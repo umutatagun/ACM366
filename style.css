@@ -401,26 +401,8 @@ nav .btn {
   margin: 30px;
 }
 
-.advisors{
-  display: block;
-  align-items: center;
-  font-size: 16px;
-  margin: 100px;
-  color: #ff960b;
-  border: 3px solid #fff;
-  padding: 20px 30px;
-  border-radius: 10px;
-  width: 50%;
-}
-
-.advisors img {
-  width: 500px;
-}
-
-.advisor-list {
-  position: absolute;
-  bottom: 50px;
-  display: flex;
-  text-align: center;
-  width: 80%;
+#advisors {
+  background-image: url(/ACM366/images/background.png);
+  background-position: center;
+  margin-top: -300px;
 }
