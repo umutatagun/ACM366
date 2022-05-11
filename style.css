@@ -406,3 +406,20 @@ nav .btn {
   background-position: center;
   margin-top: -300px;
 }
+
+#partners {
+  background-image: url(/ACM366/images/logo.png);
+  background-position: center;
+  margin-top: -300px;
+  background-size: cover;
+  color: #000000;
+  font-size: 1px;
+}
+
+#partners img{
+  width: 120px;
+  height: 120px;
+}
+#partners .member-name{
+  font-size: 14px;
+}
