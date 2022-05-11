@@ -16,6 +16,7 @@
   background-attachment: fixed;
   padding: 0 7%;
   color: #fff;
+  font-size: 20px;
 }
 nav {
   width: 100%;
@@ -191,6 +192,7 @@ nav .btn {
 
 .desig {
   font-style: italic;
+  font-size: 35px;
   color: rgb(0, 0, 0);
 }
 
@@ -407,6 +409,10 @@ nav .btn {
   background-image: url(/ACM366/images/background.png);
   background-position: center;
   margin-top: -300px;
+  
+}
+#advisors .desig{
+  color: white;
 }
 
 #partners {
@@ -423,5 +429,5 @@ nav .btn {
   height: 120px;
 }
 #partners .member-name{
-  font-size: 14px;
+  font-size: 20px;
 }
